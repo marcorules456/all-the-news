@@ -1,0 +1,37 @@
+{
+  "name": "all-the-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcorules456/all-the-news.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Marco Khodr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcorules456/all-the-news/issues"
+  },
+  "homepage": "https://github.com/marcorules456/all-the-news#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "http": "0.0.0",
+    "mongo": "^0.1.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.5",
+    "nodemon": "^1.12.1",
+    "path": "^0.12.7",
+    "request": "^2.83.0"
+  }
+}
